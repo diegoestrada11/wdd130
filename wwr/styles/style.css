@@ -1,0 +1,63 @@
+home.home-title{
+    color: rgb(159, 39, 39);
+}
+div{
+    max-width: 1600px;
+    margin: 0 auto;
+
+}
+nav a{
+    text-align: center;
+    color: rgb(12, 12, 12);
+}
+nav a:hover{
+    color:khaki
+}
+hero-msg h1{
+    text-align: center;
+}
+hero-msg h4{
+    text-align: center;
+}
+.button-box{
+    text-align: center;
+}
+main section{
+    text-align: center;
+}
+#background{
+    height: 725px;
+}
+body{
+    background-color: rgb(135, 174, 206);
+}
+header{
+background-color: rgb(243, 128, 57);
+}
+nav a:hover{
+    background-color: darkolivegreen;
+}
+.book{
+    background-color: dodgerblue;
+}
+.join{
+    background-color: firebrick;
+}
+.book:hover{
+    background-color: gold;
+}
+.join:hover{
+    background-color: crimson;
+}
+#background{
+    background-color: burlywood;
+}
+.msg{
+    background-color: chocolate;
+}
+footer{
+    background-color: salmon;
+}
+.home-title{
+    color: white;
+}
