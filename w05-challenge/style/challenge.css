@@ -1,0 +1,11 @@
+.banner{
+    width: 100%;
+
+}
+.color{
+    background-color: gray;
+    text-align: center;
+}
+.color img{
+    width: 20%;
+}

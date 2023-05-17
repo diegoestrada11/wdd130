@@ -26,13 +26,11 @@ p1{
     color: white;
     font-size: larger;
 }
+
 .list{
-    text-align: center;
-}
-q{
     margin: auto;
-    color: white;
-    
+    color: black;
+    font-size: xx-large;
     font-style: italic;
     
 }
