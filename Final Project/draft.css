@@ -1,0 +1,20 @@
+body{
+    background-image: url("./collage\ man\ city.jpeg");
+    width: 600%;
+    max-width: 1677px;
+}  
+header{
+    background-color: skyblue;
+    border-style: solid;
+    border-width: 15px;
+    border-color: white;
+    margin: auto;
+    
+    
+
+} 
+h1{
+    text-align: center;
+    color:  white;
+}
+
