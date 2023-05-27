@@ -17,4 +17,10 @@ h1{
     text-align: center;
     color:  white;
 }
+h2{
+    text-align: left;
+    color: black;
+    font-size: large;
+    font-style: italic;
+}
 
