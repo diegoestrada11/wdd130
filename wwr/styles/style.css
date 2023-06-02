@@ -139,7 +139,7 @@ footer .social img{
 }
 .home-grid{
     display: grid;
-    grid-template-columns: repeat(10,1fr);
+    grid-template-columns: repeat(10, 1fr);
 }
 .msg h2{
     color: rgb(6, 88, 69);
@@ -170,7 +170,7 @@ footer .social img{
 .rapirds-card{
     margin: 200px 0;
     grid-column: 8/10;
-    grid-row: 2/3;
+    grid-row: 2/4;
 }
 .card-img{
     border: 10px solid darkblue;
