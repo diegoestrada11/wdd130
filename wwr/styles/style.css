@@ -35,6 +35,7 @@ hero-msg h4{
 }
 h4{
     color: darkgreen;
+    
 }
 h2{
     margin: 0;
@@ -140,6 +141,7 @@ footer .social img{
     font-size: 2em;
     font-family: 'Permanent Marker','Exo 2','Shadows Into Light';
     margin-top: 10px;
+    
 }
 .home-grid{
     display: grid;
@@ -201,6 +203,7 @@ footer .social img{
     text-align: center;
     font-size: xx-large;
     color: rgb(219, 225, 97);
+
 
 }
 #hero-box{
