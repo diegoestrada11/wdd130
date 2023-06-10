@@ -218,7 +218,7 @@ nav {
         display: block;
         height: auto;
     }
-    , footer {
+     footer {
         flex-direction: column;
     }
     nav a {
