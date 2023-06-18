@@ -47,6 +47,7 @@ h4 {
 footer a {
     color: rgb(16, 47, 16);
     text-decoration: none;
+    
 }
 footer a:hover {
     color: white;
@@ -157,6 +158,14 @@ nav {
 }
 .button-box {
     text-align: center;
+}
+.river-wide{
+    width: 100%;
+}
+.main-paragraph{
+    background-color: skyblue;
+    border: 5px solid black;
+    box-shadow: 5px 5px 5px lightgreen;
 }
 #content {
     max-width: 1600px;
