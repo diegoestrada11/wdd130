@@ -299,6 +299,8 @@ nav {
     border: 4px solid black;
   }
   
+
+  
   input:focus,
   textarea:focus {
     border-color: #000;
@@ -315,4 +317,6 @@ nav {
   
   button {
     margin-left: 0.5em;
+    font-size: x-large;
+    
   }
